@@ -1,0 +1,4 @@
+[wrap-git]
+directory = hidapi
+url = https://github.com/libusb/hidapi.git
+revision = master
